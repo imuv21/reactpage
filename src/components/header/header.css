@@ -45,7 +45,7 @@
   transition: all 0.35s ease;
 }
 .header.on-scroll {
-  background: var(--main-bg-clr);
+  background: var(--bgClr);
   box-shadow: var(--shadow-medium);
 }
 
@@ -77,7 +77,7 @@
   height: auto;
   padding: 4rem 0 3rem;
   overflow: hidden;
-  background-color: var(--main-bg-clr);
+  background-color: var(--bgClr);
   box-shadow: var(--shadow-medium);
   transition: all 0.4s ease-in-out;
 }
