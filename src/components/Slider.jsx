@@ -45,7 +45,7 @@ const Slider = () => {
             <div className="slideflex">
               <div className="sfone">
                 <div className="big-heading">Lessons and insights <br /><span style={{ color: 'var(--themeClr)' }}>from 8 years</span></div>
-                <div className="discription" style={{whiteSpace: "wrap"}}>Where to grow your business as a photographer: site or social media?</div>
+                <div className="discription" style={{whiteSpace: "wrap"}}>Where to grow your business as a photographer: <br />site or social media?</div>
                 <a className='button'>Register</a>
               </div>
               <div className="sftwo">
